@@ -1,6 +1,7 @@
 # Visualise MNIST
 
 **Ref**: [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+
 ---
 ### Visualise layers and filters in forward
 
@@ -26,6 +27,7 @@ layer 2
 layer 5
 
 ![vb_layer_5](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/vb_layer_5.png)
+
 ---
 ### Guided Backpropagation
 
@@ -36,6 +38,7 @@ layer 2
 layer 5
 
 ![gb_layer_5](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/gb_layer_5.png)
+
 ---
 ### GradCAM
 
@@ -46,12 +49,14 @@ layer 2
 layer 5
 
 ![gcam_layer_5](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/gcam_layer_5.png)
+
 ---
 ### Inverted Representation
 
 layer 3
 
 ![ir_layer_3](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/ir_layer_3.png)
+
 ---
 ### Deep Dream
 
