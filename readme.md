@@ -5,10 +5,15 @@
 ### Visualise layers and filters in forward
 
 layer 1
-![sf_layer_1](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/sf_filter_1.png)
+
+![sf_layer_1](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/sf_layer_1.png)
+
 layer 4
-![sf_layer_4](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/sf_filter_4.png)
+
+![sf_layer_4](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/sf_layer_4.png)
+
 filter 1
+
 ![sf_filter_1](https://raw.githubusercontent.com/allensll/visualise-MNIST/master/result/sf_filter_1.png)
 
 
